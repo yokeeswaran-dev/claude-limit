@@ -1,0 +1,6 @@
+{
+  "name": "claude-limit",
+  "description": "The limit plugin: stop Claude Code work now or at a 5-hour usage %, and restart a session after the reset",
+  "owner": { "name": "Yokeeswaran" },
+  "plugins": [{ "name": "limit", "source": "./" }]
+}

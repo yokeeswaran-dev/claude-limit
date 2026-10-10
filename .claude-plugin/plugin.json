@@ -1,0 +1,7 @@
+{
+  "name": "limit",
+  "version": "0.1.0",
+  "description": "/limit: stop work now or at a 5-hour usage percentage, and restart this session after the usage limit resets",
+  "author": { "name": "Yokeeswaran" },
+  "types": "./types/index.d.ts"
+}
